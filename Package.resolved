@@ -1,0 +1,41 @@
+{
+  "pins" : [
+    {
+      "identity" : "audiomonitor",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/mhanlon/AudioMonitor.git",
+      "state" : {
+        "revision" : "689c66ad7fc094a9e2eeca452f3b77bddc9b3a8b",
+        "version" : "1.0.8"
+      }
+    },
+    {
+      "identity" : "myapplepie",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/mhanlon/MyApplePie.git",
+      "state" : {
+        "revision" : "80bc7889e9871845b3a973eca29840b2dd737170",
+        "version" : "1.0.3"
+      }
+    },
+    {
+      "identity" : "mycolorpicker",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/mhanlon/MyColorPicker.git",
+      "state" : {
+        "revision" : "940037e28668f7f1711c31856c1eb30a7c93cff6",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "mytimer",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/mhanlon/MyTimer.git",
+      "state" : {
+        "revision" : "527f7147b086b0df362b8500cd3e959cc5d360d2",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 2
+}
