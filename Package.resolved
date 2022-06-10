@@ -1,0 +1,43 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "AudioMonitor",
+        "repositoryURL": "https://github.com/mhanlon/AudioMonitor",
+        "state": {
+          "branch": null,
+          "revision": "689c66ad7fc094a9e2eeca452f3b77bddc9b3a8b",
+          "version": "1.0.8"
+        }
+      },
+      {
+        "package": "MyApplePie",
+        "repositoryURL": "https://github.com/mhanlon/MyApplePie",
+        "state": {
+          "branch": null,
+          "revision": "ad706216dbaa8ed1f8eacd349044d387d22a1b14",
+          "version": "1.0.0"
+        }
+      },
+      {
+        "package": "MyColorPicker",
+        "repositoryURL": "https://github.com/mhanlon/MyColorPicker",
+        "state": {
+          "branch": null,
+          "revision": "940037e28668f7f1711c31856c1eb30a7c93cff6",
+          "version": "1.0.0"
+        }
+      },
+      {
+        "package": "MyTimer",
+        "repositoryURL": "https://github.com/mhanlon/MyTimer",
+        "state": {
+          "branch": null,
+          "revision": "527f7147b086b0df362b8500cd3e959cc5d360d2",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
